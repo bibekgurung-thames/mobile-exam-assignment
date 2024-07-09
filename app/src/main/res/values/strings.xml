@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExamAssignment</string>
+    <string name="login_text_format">Email: %1$s, Password: %2$s</string>
+</resources>
